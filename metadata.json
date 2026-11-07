@@ -1,0 +1,6 @@
+{
+  "name": "Pink Men Jewellery",
+  "description": "Royal Rajputana Contemporary fine jewellery atelier from Jaipur, featuring handcrafted Kundan, Polki, and Meenakari heirlooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
